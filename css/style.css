@@ -1,0 +1,30 @@
+.no{
+	filter:none;
+}
+.no1{
+	filter:blur(20px);
+}
+.no2{
+	filter:brightness(50%);
+}
+.no3{
+	filter:contrast(50%);
+}
+.no4{
+	filter:grayscale(70%);
+}
+.no5{
+	filter:invert(100%);
+}
+.no6{
+	filter:opacity(80%);
+}
+.no7{
+	filter:saturate(90%);
+}
+.no8{
+	filter:sepia(50%);
+}
+.no9{
+	filter:hue-rotate(90deg);
+}
